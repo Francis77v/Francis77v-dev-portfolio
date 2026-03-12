@@ -13,7 +13,7 @@ const Hero = () => {
                 </div>
 
                 <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight">
-                    FRANCIS <span className="text-accent">J.</span><br />
+                    FRANCIS <span className="text-accent">F.</span><br />
                     <span className="text-4xl md:text-6xl lg:text-7xl opacity-90">BACKEND ENGINEER</span>
                     <span className="text-accent cursor-blink">_</span>
                 </h1>
