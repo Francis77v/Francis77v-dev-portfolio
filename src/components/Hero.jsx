@@ -19,10 +19,10 @@ const Hero = () => {
                 </h1>
 
                 <p className="max-w-2xl text-gray-400 text-lg md:text-xl mb-10 leading-relaxed font-sans">
-                    Building high-performance web applications with a focus on
-                    <span className="text-white"> clean code</span>,
+                    Building robust backend systems with
+                    <span className="text-white"> clean, maintainable code</span>,
                     <span className="text-white"> scalable architecture</span>, and
-                    <span className="text-white"> exceptional user experiences</span>.
+                    <span className="text-white"> reliable, high-performance APIs</span>.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4">
