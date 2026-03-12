@@ -40,8 +40,8 @@ const Navbar = () => {
                 }`}
         >
             <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
-                <a href="#hero" className="font-mono text-xl font-bold tracking-tighter text-white group">
-                    <span className="text-accent group-hover:text-white transition-colors">DEV</span>_PORTFOLIO
+                <a href="#hero" className="font-mono text-lg font-bold tracking-tighter text-white group">
+                    <span className="text-accent group-hover:text-white transition-colors">FRANCIS F.</span> | BACKEND ENGINEER
                 </a>
 
                 <div className="hidden md:flex space-x-8">
